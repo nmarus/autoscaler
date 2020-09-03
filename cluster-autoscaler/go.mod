@@ -16,6 +16,7 @@ require (
 	github.com/aws/aws-sdk-go v1.28.2
 	github.com/digitalocean/godo v1.27.0
 	github.com/ghodss/yaml v1.0.0
+	github.com/golang/protobuf v1.3.2
 	github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af
 	github.com/json-iterator/go v1.1.8
 	github.com/pkg/errors v0.8.1
@@ -25,6 +26,7 @@ require (
 	golang.org/x/crypto v0.0.0-20200220183623-bac4c82f6975
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	google.golang.org/api v0.6.1-0.20190607001116-5213b8090861
+	google.golang.org/grpc v1.26.0
 	gopkg.in/gcfg.v1 v1.2.0
 	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.0.0
